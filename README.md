@@ -8,3 +8,4 @@ To minimize the spread of #COVID-19, speed up the tedious process, and minimize 
 
 With ATM-Pal, a visit to the ATM starts on a phone using our app, where users securely link their bank account, select a nearby ATM, initialize a withdrawal or deposit, and ATM-Pal then generates a QR code that you present at the ATM to complete the transaction. The ATM uses this QR code information to process the user's transaction without requiring the user to prepare these tasks at the ATM - making the process completely contactless, quicker, and safer. 
 
+Presentation Video: https://youtu.be/nd0xHcJ4I7Q
